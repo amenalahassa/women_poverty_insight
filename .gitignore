@@ -1,4 +1,4 @@
 .idea/
-Train.csv
-Test.csv
+outputs/Train.csv
+outputs/Test.csv
 outputs/
