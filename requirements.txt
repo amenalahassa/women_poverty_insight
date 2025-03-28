@@ -9,7 +9,6 @@ scikit-learn==1.6.1
 h3==4.2.2
 folium==0.19.5
 xgboost==3.0.0
-ipython==9.0.2
 tensorflow==2.15.0
 wurlitzer==3.1.1
 tensorflow_decision_forests==1.8.1
